@@ -31,8 +31,8 @@ A comprehensive relational database for managing all operations of a library sys
 ### Import the database:
 
 bash
-mysql -u [username] -p < database/library_management_schema.sql
-mysql -u [username] -p < database/sample_data.sql
+
+mysql -u [username] -p < database/library.sql
 
 ## ERD Visualization:
 
